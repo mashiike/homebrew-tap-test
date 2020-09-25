@@ -1,4 +1,4 @@
-class Yaml2textATOld < Formula
+class Yaml2textATBeta < Formula:
     version '0.1.0'
     homepage 'https://github.com/mashiike/yaml2text'
     url "https://github.com/mashiike/yaml2text/releases/download/v0.1.0/yaml2text-v0.1.0-darwin-amd64"
