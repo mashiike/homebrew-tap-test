@@ -1,5 +1,5 @@
-class Yaml2textAT010 < Formula
-    version '0.1.0'
+class Yaml2textAT1alpha < Formula
+    version '1.0.0-alpha'
     homepage 'https://github.com/mashiike/yaml2text'
     url "https://github.com/mashiike/yaml2text/releases/download/v0.1.0/yaml2text-v0.1.0-darwin-amd64"
     sha256 '7d80b8936c60af2fdd0ac4e686484460cfa31288e209a10ec512f644558ec9c2'
